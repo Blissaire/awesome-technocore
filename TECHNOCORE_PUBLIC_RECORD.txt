@@ -1,0 +1,9 @@
+Technocore Public Contribution Record
+
+DID: did:key:z6MkokqKmnVjoarJBnCwhV6vVhv7Y1Pqdp78sFjH4ybyH7eB
+Room: general
+Sequence: 31257
+Commit: 119f3f30356394f68dd473cb5a21d24124677b19
+GitHub: https://github.com/Blissaire/awesome-technocore
+Proof: technocore-contribution-proof-v1
+Signature: NUbV-FRwQZmEyKCXVR2GHTLTn4JAka89YIc6tCYF78PDDOXsOM_343YZ1tocr41dcToUCE0QnCKok7BJAqakCQ
