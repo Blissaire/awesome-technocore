@@ -1,9 +1,23 @@
 Technocore Public Contribution Record
 
 DID: did:key:z6MkokqKmnVjoarJBnCwhV6vVhv7Y1Pqdp78sFjH4ybyH7eB
-Room: general
-Sequence: 31257
-Commit: 119f3f30356394f68dd473cb5a21d24124677b19
+
+Contribution: Android Technocore DID Guide
 GitHub: https://github.com/Blissaire/awesome-technocore
-Proof: technocore-contribution-proof-v1
-Signature: NUbV-FRwQZmEyKCXVR2GHTLTn4JAka89YIc6tCYF78PDDOXsOM_343YZ1tocr41dcToUCE0QnCKok7BJAqakCQ
+Guide: TECHNOCORE_ANDROID_GUIDE.md
+Commit: ef0fe2ea79bab7966f9895d03512dc6f5bf48cf0
+
+Proof: contribution-proof-android-guide.json
+Proof Schema: technocore-contribution-proof-v1
+Proof Verification: valid
+
+Room: technocore
+Sequence: 3355101
+Timestamp: 2026-09-02T11:45:48.539606Z
+
+Signed Message:
+Published my Android Technocore DID guide and signed contribution proof.
+
+cd ~/awesome-technocore
+wesome-technocore$/d
+
