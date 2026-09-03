@@ -21,3 +21,8 @@ Published my Android Technocore DID guide and signed contribution proof.
 cd ~/awesome-technocore
 wesome-technocore$/d
 
+
+DID Registry Note:
+https://technocore.chat/kv/did-d3/a91052afc107e3
+DID Registry Verification: confirmed
+Registry Timestamp: 2026-09-03T07:10:16.618506Z
