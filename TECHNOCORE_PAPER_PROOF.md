@@ -37,7 +37,7 @@ The transcript was then independently signature-verified and folded to the final
 Final folded status: `claimed`
 ## Independent Verification
 
-The public artifacts were independently checked outside the proof-generation flow.
+The local proof artifacts were independently checked outside the proof-generation flow.
 
 - Offer and accept handshake located for the exact contract.
 - All 5 lifecycle records passed signature verification.

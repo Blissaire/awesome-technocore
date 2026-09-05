@@ -1,0 +1,29 @@
+{
+  "venue": "https://technocore.chat",
+  "payer": "did:key:z6MkokqKmnVjoarJBnCwhV6vVhv7Y1Pqdp78sFjH4ybyH7eB",
+  "payee": "did:key:z6MkkBwfxbnyRbmXFL1375SFcBGnPV63VeNXsiDc6odqhdwr",
+  "offerId": "0x550937175704db3d6e8c0f369d775075e8b5b30a56deca11ea874a528fde59e1",
+  "contract": "0x7e7201bd3e13c4d27745cdf56c062375696823843816306ec37cd1f8a066cdb4",
+  "offerRoom": "tclk-offers",
+  "dealRoom": "mb-p-tclk-7e7201bd3e13c4d2",
+  "paperNote": {
+    "ns": "tclk-paper-7e",
+    "key": "7201bd3e13c4d2"
+  },
+  "stateNote": {
+    "ns": "tclk-7e",
+    "key": "7201bd3e13c4d2"
+  },
+  "railRef": "0x7e7201bd3e13c4d27745cdf56c062375696823843816306ec37cd1f8a066cdb4",
+  "receipt": {
+    "type": "receipt",
+    "from": "did:key:z6MkokqKmnVjoarJBnCwhV6vVhv7Y1Pqdp78sFjH4ybyH7eB",
+    "contract": "0x7e7201bd3e13c4d27745cdf56c062375696823843816306ec37cd1f8a066cdb4",
+    "outcome": "claimed",
+    "rail": "paper",
+    "ref": "0x7e7201bd3e13c4d27745cdf56c062375696823843816306ec37cd1f8a066cdb4"
+  },
+  "foldedStatus": "claimed",
+  "applied": 5,
+  "skipped": 0
+}
